@@ -4,6 +4,10 @@ const team = [
         name: 'Uziel Meliton Hernandez',
         email: 'uzielmelitonh@gmail.com'
     },
+    {
+        name: 'Jacob medina cruz',
+        email: 'jacob@gmail.com'
+    },
 ]
 
 
