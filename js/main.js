@@ -8,6 +8,7 @@ const team = [
         name: 'Jacob medina cruz',
         email: 'jacob@gmail.com'
     },
+    {
         name: 'Ejemplo',
         email: 'ejemplo@gmail.com'
     }
