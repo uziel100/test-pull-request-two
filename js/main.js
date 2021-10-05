@@ -5,6 +5,9 @@ const team = [
         email: 'uzielmelitonh@gmail.com'
     },
     {
+        name: 'Jacob medina cruz',
+        email: 'jacob@gmail.com'
+    },
         name: 'Ejemplo',
         email: 'ejemplo@gmail.com'
     }
